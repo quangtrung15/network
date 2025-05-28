@@ -15,6 +15,19 @@
 - Khi được bật
   - ![image](https://github.com/user-attachments/assets/6cd032e0-0109-40b9-8783-a5b0adbfaaff)
 
+# 4.Tính năng phân giải tên miền ip domain-lookup
+- Trong quá trình cấu hình router bằng dòng lệnh, khi gõ sai lệnh router sẽ tiến hành phân giải câu lệnh sai thành địa chỉ ip gây mất thời gian
+- Có thể hủy bỏ bằng tổ hợp phim Ctrl + Shift + 6
+  - ![image](https://github.com/user-attachments/assets/71cf0367-5369-4a71-92f3-b5db9a346593)
+- Khi tắt ip domain-lookup
+  - ![image](https://github.com/user-attachments/assets/8c95af9f-5899-48fa-bc14-5ecb091ac45c)
+- Có thể sử dụng như thế này
+  - ![image](https://github.com/user-attachments/assets/ac2ed052-8a9c-477e-aa6a-1f3676e03a64)
+
+# 5.
+
+
+
 
 
 
